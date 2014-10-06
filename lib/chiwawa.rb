@@ -1,3 +1,5 @@
+require 'json'
+require 'rest_client'
 require 'chiwawa/version'
 require 'chiwawa/cloudflare'
 
